@@ -24,7 +24,7 @@ const state = {
   submissionsInFlight: new Set()
 };
 const ALL_OPTION = '__ALL__';
-const MATRIX_V2_WEB_VERSION = '2026.09.29-identifiable-sync-issues';
+const MATRIX_V2_WEB_VERSION = '2026.09.30-file-restore-history';
 const MATRIX_V2_WEB_UPDATED_AT = '2026-09-29 11:20:00 +07';
 
 const PAGE_TITLES = {
