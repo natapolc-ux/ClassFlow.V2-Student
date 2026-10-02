@@ -24,7 +24,7 @@ const state = {
   submissionsInFlight: new Set()
 };
 const ALL_OPTION = '__ALL__';
-const MATRIX_V2_WEB_VERSION = '2026.10.01-manual-score-without-submission';
+const MATRIX_V2_WEB_VERSION = '2026.10.02-manual-score-number-sync';
 const MATRIX_V2_WEB_UPDATED_AT = '2026-09-29 11:20:00 +07';
 
 const PAGE_TITLES = {
